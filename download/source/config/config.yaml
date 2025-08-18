@@ -1,0 +1,4 @@
+Service_name: "download_precipitation"
+configuration_parameters:
+  - download_folder_path: ""
+  - url_base_precipitation: "https://ftp.cptec.inpe.br/modelos/tempo/MERGE/GPM/DAILY"

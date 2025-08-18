@@ -1,0 +1,9 @@
+service_name: "processing_precipitation_data"
+configuration_parameters: 
+  - download_folder_path: ""
+  - municipalities_shapefile_path: "" # Path to the municipalities shapefiles folder
+  - database_host: ""
+  - database_port: 
+  - database_name: ""
+  - database_user: ""
+  - database_password: ""
